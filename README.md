@@ -1,1 +1,26 @@
-1.html
+<!DOCTYPE HTML>
+<html>
+<head>
+
+<title>Self Q&A</title>
+</head>
+<body>
+  <h5><u>1.Don't feel pressure to give a clear and concrete answer right away. Take an enugh time as it's really important for your life</p>
+  <p>2.The answer doesn't need to be perfect.</p>
+<p>3.Check the boxes below when you try answering each questions.</p>
+<p>4.It's all about discovering my own "where I want to be."</u></h5></p>
+<p>
+<p>
+</p>
+<img src="고양이.jpg" width="20%">
+</p>
+<h20><a href="https://www.youtube.com/watch?v=1alVaiN66fM" target="_blank" title="click">The reference site</a></h20>
+<ol>
+<p><li>What makes you be happy and proud? <input type="checkbox"> <a href="2.html"><click</a></li></p>
+<p><li>What gets me upin the morning? (The thoughts that gives you energy) <input type="checkbox"><a href="3.html">click</a></li></p>
+<p><li>When you meet up your nearrest, what do they say that I'm good at? what do they say about you?<input type="checkbox"><a href="4.html">click</a></li></p>
+<p><li>What do I like taliking about the most? <input type="checkbox"></li></p>
+<p><li>Who are your role models?<br>(And why are they your role models,<br>what have that people acheived in their life?,<br> what the acheivemets are important for me?)<input type="checkbox"></li></p>
+</ol>
+</body>
+</html>
